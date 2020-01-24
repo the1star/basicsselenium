@@ -1,0 +1,7 @@
+2020-01-03 10:07:27,569  INFO [main] Log4jdemo:16 - Application started sucessfully
+2020-01-03 10:07:27,584  WARN [main] Log4jdemo:21 - check status
+2020-01-03 10:07:27,584  INFO [main] Log4jdemo:25 - correct title
+2020-01-03 10:10:21,587  INFO [main] Log4jdemo:16 - Application started sucessfully
+2020-01-03 10:10:21,599  WARN [main] Log4jdemo:21 - check status
+2020-01-03 10:10:21,600  INFO [main] Log4jdemo:25 - correct title
+2020-01-03 11:16:10,639  INFO [main] Log4jdemo:18 - Application started sucessfully
